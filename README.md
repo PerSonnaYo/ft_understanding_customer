@@ -1,1 +1,1 @@
-# ft_understanding_customer
+задание в pdf файле
